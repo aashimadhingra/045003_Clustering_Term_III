@@ -11,4 +11,4 @@ Brand_perception.ipynb: Contains the excutable code and the project report
 
 Dataset: kaggle.com
 
-Code: geeksforgeeks.com, chatgpt, class notes
+Code: geeksforgeeks.com, chatgpt
